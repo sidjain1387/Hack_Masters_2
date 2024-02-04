@@ -1,7 +1,7 @@
 ![WhatsApp Image 2024-02-04 at 1 53 40 PM](https://github.com/sidjain1387/Hack_Masters_2/assets/140233380/108e8c5a-1a85-4b7a-bee7-5de02dffd5ce)
  
 # Health Hub 360
-## made by
+### made by
 ## Hack_Masters
 
 
@@ -13,4 +13,9 @@
 4) pip install pillow
 ### After This Run the below mentioned Command to Run the website on Local server
 5) python app.py
+   
 ![WhatsApp Image 2024-02-04 at 2 43 36 PM](https://github.com/sidjain1387/Hack_Masters_2/assets/140233380/0bbafc4b-117e-4aaf-86e7-eca877f86b88)
+
+6)You will get a link as highleted in the above image.
+7) Right click + Follow the link OR directly Ctrl + Click on the link
+
