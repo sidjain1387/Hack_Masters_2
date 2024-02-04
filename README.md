@@ -15,7 +15,7 @@
    
 ![WhatsApp Image 2024-02-04 at 2 43 36 PM](https://github.com/sidjain1387/Hack_Masters_2/assets/140233380/0bbafc4b-117e-4aaf-86e7-eca877f86b88)
 
-6)You will get a link as highleted in the above image.
+6) You will get a link as highleted in the above image
 7) Right click + Follow the link OR directly Ctrl + Click on the link
 8) After this The website will open On your Default Browser
 
